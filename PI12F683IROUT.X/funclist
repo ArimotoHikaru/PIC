@@ -1,0 +1,6 @@
+_pwm_start: CODE, 1998 0 16
+_main: CODE, 2014 0 32
+__initialization: CODE, 2046 0 0
+_ini_set: CODE, 1990 0 8
+_set_duty: CODE, 1985 0 5
+Total: 61
